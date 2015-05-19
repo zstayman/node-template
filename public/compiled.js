@@ -1,0 +1,1 @@
+function test2(){return!1}function go(t){return console.log(this),t}function test1(){return!0}
